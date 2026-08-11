@@ -1,4 +1,4 @@
-## Sergey Bazyliuk
+## Siarhei Bazyliuk
 
 Python engineer working on the backend/AI boundary — I build production APIs and
 put LLM systems behind them. Based in Warsaw, Poland (EU work permit). Open to B2B contracts.
